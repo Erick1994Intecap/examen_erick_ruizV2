@@ -1,0 +1,11 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "inputs",
+            "icon" : "input",
+            "texto": "Formulario Mascotas"
+        }
+        
+    ]
+}
